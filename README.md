@@ -1,5 +1,5 @@
 ﻿## 💻 Projeto
-Projeto que tem como objetivo ter um controle dos paciente do nutricionista, fazendo o calculo do IMC e podendo assim adionar novo paciente ou excluir.
+Aparecida Nutricionista tem o controle de seus pacientes, tendo dados de todos seus pacientes em sua planilha para auxiliar, fazendo o calculo do IMC e podendo assim adicionar novo paciente ou excluir.
 
 <p align="center">
 <img width="100%" src="assets/AparecidaNutricao.PNG">
