@@ -11,4 +11,22 @@ Aparecida Nutricionista tem o controle de seus pacientes, tendo dados de todos s
 - Adicionar paciente e excluir.
 - filtrar paciente pelo nome.
 
+## :rocket: Tecnologias:
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Java][js]
+- [HTML][html]
+- [CSS][css]
+
+-------
+Feito por Amadeu Filipe Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/amadeu-filipe-lopes12/)
+
+
+
+[js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+
 
